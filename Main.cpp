@@ -4,8 +4,8 @@
 #define SDL_MAIN_HANDLED
 #include <SDL.h>
 
-int Cong(int a, int b) {
-	return a + b;
+int Tru(int a, int b) {
+	return a - b;
 }
 
 using namespace std;
